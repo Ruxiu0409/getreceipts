@@ -1,6 +1,6 @@
 {
   "name": "getreceipts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Catch your AI coding agent claiming work it didn't do. Deterministic, read-only, zero-config. The lie detector for Claude Code.",
   "type": "module",
   "bin": {
