@@ -1,5 +1,9 @@
 # getreceipts 🧾
 
+[![npm version](https://img.shields.io/npm/v/getreceipts.svg)](https://www.npmjs.com/package/getreceipts)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![tests](https://img.shields.io/badge/tests-107%20passing-brightgreen.svg)](#)
+
 **Your AI coding agent says it added the tests and they pass. `getreceipts` checks.**
 
 A deterministic, read-only watchdog that catches your coding agent **claiming work it didn't do** — "all tests pass" when no test ran, "I updated `src/foo.ts`" when the diff says otherwise. It runs after every Claude Code turn and stays completely silent unless a claim is **provably** false.
