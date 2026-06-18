@@ -30,6 +30,15 @@
     "cursor"
   ],
   "license": "MIT",
+  "author": "Ruxiu0409",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruxiu0409/getreceipts.git"
+  },
+  "homepage": "https://github.com/Ruxiu0409/getreceipts#readme",
+  "bugs": {
+    "url": "https://github.com/Ruxiu0409/getreceipts/issues"
+  },
   "engines": {
     "node": ">=18"
   },
