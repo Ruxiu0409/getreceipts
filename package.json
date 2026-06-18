@@ -4,8 +4,8 @@
   "description": "Catch your AI coding agent claiming work it didn't do. Deterministic, read-only, zero-config. The lie detector for Claude Code.",
   "type": "module",
   "bin": {
-    "getreceipts": "./dist/cli.js",
-    "receipts": "./dist/cli.js"
+    "getreceipts": "dist/cli.js",
+    "receipts": "dist/cli.js"
   },
   "files": [
     "dist",
